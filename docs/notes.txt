@@ -1,0 +1,16 @@
+Task 2: Data Visualization and Storytelling
+
+Steps followed:
+1. Cleaned the Netflix dataset using Python.
+2. Imported cleaned data into Power BI.
+3. Created visualizations:
+   - Movies vs TV Shows
+   - Top Countries
+   - Year-wise growth
+   - Genres
+   - Ratings
+4. Designed a dashboard with proper layout.
+5. Added insights for storytelling.
+
+Outcome:
+Learned how to create dashboards and tell stories using data.
