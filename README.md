@@ -29,4 +29,8 @@ To create visualizations and tell a story using Netflix dataset.
 - Report (PDF)
 
 ## Author
-Lokesh
+Lokesh 
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
